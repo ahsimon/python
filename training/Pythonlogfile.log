@@ -1,0 +1,4 @@
+2022-11-29 23:23:32,708 - This message is logged to the file.
+2022-11-29 23:23:32,708 - Less severe information is also logged to the file.
+2022-11-29 23:23:32,708 - Warning messages are logged, too.
+2022-11-29 23:23:32,708 - The variable is not numeric.
