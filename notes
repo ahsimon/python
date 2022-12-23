@@ -1,0 +1,9 @@
+
+A local scope refers to the local objects available in the current function.
+A global scope refers to the objects available throughout the code execution since their inception.
+
+
+A local scope refers to the local objects available in the current function.
+A global scope refers to the objects available throughout the code execution since their inception.
+
+The key difference between the two is that while lists are mutable, tuples on the other hand are immutable objects. This means that lists can be modified, appended or sliced on the go but tuples remain constant and cannot be modified in any manner.
