@@ -1,5 +1,4 @@
 
-eDWArchitectonics
 # Python
 
 ## Python Induction List
